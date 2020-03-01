@@ -9,3 +9,6 @@ RA 1902432
 
 Marcos Castelli
 RA 1901605
+
+Bruno Lima Guimarães
+RA: 1901981
